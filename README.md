@@ -8,4 +8,3 @@
 
 <p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=meadril&show_icons=true&locale=en" alt="meadril" /></p>
 
-<p align="center"> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=meadril&" alt="meadril" /></p>
